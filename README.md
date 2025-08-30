@@ -119,7 +119,7 @@
   <div class="container" id="contact">
     <h2>Contact Us</h2>
     <p>Email: info@favouriteentertainment.com</p>
-    <p>WhatsApp: +234 800 000 0000</p>
+    <p>WhatsApp: +234 8141636549</p>
   </div>
 
   <footer>
